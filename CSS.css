@@ -1,0 +1,170 @@
+
+.zapdvin{
+  text-align: justify;
+    color:black;
+  }
+  
+.link{
+  text-decoration: none;
+  color:black;
+}
+  
+.link{
+  transition: 3s;
+}
+  
+.link:hover{
+  color:red;
+}
+  
+.menu{
+  display: flex;
+  flex-direction: row;
+  background-color: none;
+  border-radius: 60px;
+  border: 3px solid black;
+  color:black;
+}
+  
+.unity{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: right;
+  width: 100%; 
+  position: relative;
+  right:40px;
+}
+  
+.unity li{
+  list-style-type:none;
+}
+  
+b{
+  font-weight: bolder;
+  color:black;
+    
+}
+  
+.wiki{
+  position: relative;
+  bottom: 7px;
+  margin:5px 0;
+  padding:0;
+}
+  
+  
+h1{
+  text-align: center;
+  margin:0;
+  padding:0;
+}
+  
+.text{
+  color: black;
+}
+  
+.text_1{
+  text-align: center;
+}
+  
+.zpdv{
+  position: relative;
+  left: 40px;
+}
+  
+img{
+  width:500px;
+  height:300px;
+  margin-left:50px;
+  margin-right:50px;
+  margin-bottom: 0 10px 0;
+  border: 3px solid black;
+}
+  
+hr{
+  height: 3px;
+  background-color:black;
+  border-color: black;
+  border-radius: 60px;
+}
+  
+body{
+  background-color:#B9E1E4;
+  background-size:100% ;
+}
+  
+p{
+  margin:3px 3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+  
+  
+.dv{
+  position: relative;
+  top:-1px;
+  bottom:9px;
+  left:505px;
+  font-size: 15px;
+  margin:10px 10px;
+  background-color: black;
+  color:whitesmoke;
+  border-radius: 60px;
+  text-decoration: none;
+  width:240px;
+  height: 30px;
+    
+}
+  
+.dv:hover{
+  color: black;
+  background-color:white;
+}
+  
+.nm{
+  position: relative;
+  bottom:9px;
+  left:190px;
+  font-size:15px;
+  margin:5px 5px;
+  background-color: black;
+  color:whitesmoke;
+  border-radius: 60px;
+  text-decoration: none;
+  width:240px;
+  height: 30px;
+}
+  
+.nm:hover{
+  color:black;
+  background-color: white;
+}
+  
+.pr{
+  position: relative;
+  bottom:20px;
+  left:500px;
+  font-size: 15px;
+  margin:5px 5px;
+  background-color: black;
+  color:whitesmoke;
+  border-radius: 60px;
+  text-decoration: none;
+  width:240px;
+  height: 30px;
+}
+  
+.pr:hover{
+  color:black;
+  background-color: white;
+}
+  
+h3{
+  margin:0;
+}
+  
+.fff{
+  float:right;
+  position: relative;
+  left: -3px;
+}
